@@ -1,0 +1,12 @@
+{
+  "name": "nothing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "https://github.com/nomisatti/Todo-App.git",
+  "author": "Muhammad Nouman Atiq <36809880+nomisatti@users.noreply.github.com>",
+  "private" : true,
+  "workspaces" : [
+    "packages/*"
+  ]
+}
