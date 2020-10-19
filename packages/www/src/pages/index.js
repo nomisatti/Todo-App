@@ -4,7 +4,7 @@ export default() => {
 
     return (
         <div>
-            <h1> Todo App</h1>
+            <h1> Helo World ! Todo App</h1>
         </div>
     )
 }
